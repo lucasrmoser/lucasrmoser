@@ -1,16 +1,503 @@
-## Hi there 👋
+# Lucas Ribeiro Moser
 
-<!--
-**lucasrmoser/lucasrmoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Full Stack`**
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+seja+bem+vindo+(a)!)](https://git.io/typing-svg) <p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre
+
+Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Santa Catarina. Sou interessado por programação e ti em geral desde adolescente, porque primeiramente meu interesse veio pela área de desenvolvimento de jogos, o que fez com que eu conhecesse outras áreas dentro da programação e que ao longo dos anos eu desenvolvesse e trabalhasse em diversos projetos pessoais, incluindo sites, blogs, fóruns e jogos online e offline, além de sistemas desktop e web. E isso muito anos antes de sequer pensar em cursar uma faculdade na área. E é exatamente por esse motivo que eu conheço um monte de tecnologias diferentes e até mesmo legadas, mas conhecer é completamente diferente de dominar, da mesma forma que desenvolver um projeto pessoal é completamente diferente de trabalhar em uma empresa. Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera e possuo experiência de estágio em engenharia de software, onde desempenhei a função de analista de desenvolvimento e suporte ERP em uma empresa voltada ao ramo têxtil.
+
+---
+
+<br/>
+
+### Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Eclipse" 
+    title="Eclipse"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Express.js" 
+    title="Express.js"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Mongoose" 
+    title="Moongose"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Maven"
+    title="Maven" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CMD Windows/Bash Linux" 
+    title="CMD Windows/Terminal Linux"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Npm"
+    title="Npm" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Nvm"
+    title="Nvm" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://repository-images.githubusercontent.com/612230/53a0c44a-1f6e-4f8d-918f-89762fafe369" 
+/>
+
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Github" 
+    title="GitHub"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+### Principais e demais linguagens, IDEs, banco de dados, frameworks e tecnologias em geral que já utilizei, estudei, programei e já fiz projetos
+
+<img 
+    align="left" 
+    alt="VBScript" 
+    title="VBScript"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-line.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="VBA" 
+    title="VBA"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpojg_9HrM2_5uAGIIDVQhz9S2CATkxoylg&s" 
+/>
+
+<img 
+    align="left" 
+    alt="ShellScript" 
+    title="ShellScript"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"
+/>
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Visual Basic 6/.NET" 
+    title="Visual Basic/.NET"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Ruby" 
+    title="Ruby"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Delphi/Object Pascal" 
+    title="Delphi"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Microsoft Visual Basic 6 IDE" 
+    title="Microsoft Visual Basic 6 IDE"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Visual_Basic_6.0_logo.png/250px-Visual_Basic_6.0_logo.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Microsoft Visual Studio IDE" 
+    title="Microsoft Visual Studio IDE"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="NetBeans" 
+    title="NetBeans"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Lazarus" 
+    title="Lazarus"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png?20120115185737" 
+/>
+
+<img 
+    align="left" 
+    alt="Firebird" 
+    title="Firebird"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Microsoft SQL Server" 
+    title="Microsoft SQL Server"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Microsoft Acess" 
+    title="Microsoft Acess"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Microsoft-Access-2010-icon.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Microsoft SQL Developer" 
+    title="Microsoft SQL Developer"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Apex" 
+    title="Apex"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Unify NXJ" 
+    title="Unify NXJ"
+    width="80px" 
+    style="padding-right: 10px;" 
+    src="https://prtimes.jp/i/1467/21/resize/8493765bb14af1555ad1f95db5343ea1.jpg" 
+/>
+
+<img 
+    align="left" 
+    alt="jQuery" 
+    title="jQuery"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Angular.js" 
+    title="Angular.js"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Ant" 
+    title="Ant"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://www.logo.wine/a/logo/Apache_Ant/Apache_Ant-Logo.wine.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Bitbucket" 
+    title="Bitbucket"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="XAMPP" 
+    title="XAMPP"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/xampp.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PHPMyAdmin" 
+    title="PHPMyAdmin"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://e7.pngegg.com/pngimages/902/199/png-clipart-logo-phpmyadmin-mysql-font-mysql-logo-angle-text.png" 
+/>
+
+<img 
+    align="left" 
+    alt="FlameRobin" 
+    title="FlameRobin"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://www.everest.my/wp-content/uploads/2023/05/flamerobin-logo.png.webp" 
+/>
+
+<br/>
+<br/>
+
+<br/>
+<br/>
+
+---
