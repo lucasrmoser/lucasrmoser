@@ -43,6 +43,15 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
 
 <img 
     align="left" 
+    alt="SQL e PL/SQL" 
+    title="SQL e PL/SQL"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="TypeScript" 
     title="TypeScript"
     width="50px" 
@@ -316,15 +325,6 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
 
 <img 
     align="left" 
-    alt="Delphi/Object Pascal" 
-    title="Delphi"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="50px" 
@@ -357,6 +357,24 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="IntelliJ IDEA" 
+    title="IntelliJ IDEA"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Delphi/Object Pascal" 
+    title="Delphi/Object Pascal"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" 
 />
 
 <img 
@@ -397,11 +415,29 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
 
 <img 
     align="left" 
-    alt="Microsoft SQL Developer" 
-    title="Microsoft SQL Developer"
+    alt="Oracle SQL Developer" 
+    title="Oracle SQL Developer"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="jQuery" 
+    title="jQuery"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="AngularJS" 
+    title="AngularJS"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
 />
 
 <img 
@@ -420,24 +456,6 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
     width="80px" 
     style="padding-right: 10px;" 
     src="https://prtimes.jp/i/1467/21/resize/8493765bb14af1555ad1f95db5343ea1.jpg" 
-/>
-
-<img 
-    align="left" 
-    alt="jQuery" 
-    title="jQuery"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Angular.js" 
-    title="Angular.js"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
 />
 
 <img 
@@ -469,6 +487,15 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
 
 <img 
     align="left" 
+    alt="Blogger" 
+    title="Blogger"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/250px-Blogger.svg.png?20220812153035" 
+/>
+
+<img 
+    align="left" 
     alt="XAMPP" 
     title="XAMPP"
     width="50px" 
@@ -491,7 +518,7 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
     title="FlameRobin"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://www.everest.my/wp-content/uploads/2023/05/flamerobin-logo.png.webp" 
+    src="https://www.everest.my/wp-content/uploads/2023/05/flamerobin-logo.png.webp"
 />
 
 <br/>
@@ -499,3 +526,8 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
 
 <br/>
 <br/>
+
+<br/>
+<br/>
+
+---
