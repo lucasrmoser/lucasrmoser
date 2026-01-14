@@ -245,6 +245,9 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
 <br/>
 <br/>
 
+<br/>
+<br/>
+
 ---
 
 <br/>
@@ -442,20 +445,20 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
 
 <img 
     align="left" 
-    alt="Apex" 
-    title="Apex"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Unify NXJ" 
     title="Unify NXJ"
     width="80px" 
     style="padding-right: 10px;" 
     src="https://prtimes.jp/i/1467/21/resize/8493765bb14af1555ad1f95db5343ea1.jpg" 
+/>
+
+<img 
+    align="left" 
+    alt="Apex" 
+    title="Apex"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" 
 />
 
 <img 
@@ -483,6 +486,15 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 
 <img 
@@ -520,6 +532,9 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
     style="padding-right: 10px;" 
     src="https://www.everest.my/wp-content/uploads/2023/05/flamerobin-logo.png.webp"
 />
+
+<br/>
+<br/>
 
 <br/>
 <br/>
