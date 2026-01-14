@@ -542,7 +542,6 @@ Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Sa
 <br/>
 <br/>
 
-<br/>
-<br/>
-
 ---
+
+<br/>
