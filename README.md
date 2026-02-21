@@ -322,7 +322,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     title="Microsoft Visual Basic 6 IDE"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Visual_Basic_6.0_logo.png/240px-Visual_Basic_6.0_logo.png" 
+    src="https://archive.org/download/visualbasic6.0enterpriseedition_201912/210px-Visual_Basic_6.0_logo.png" 
 />
 
 <img 
@@ -520,7 +520,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     title="Blogger"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/240px-Blogger.svg.png?20220812153035" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1280px-Blogger.svg.png" 
 />
 
 <img 
