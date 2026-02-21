@@ -485,6 +485,15 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
+    alt="MongoDB Compass" 
+    title="MongoDB Compass"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" 
+/>
+
+<img 
+    align="left" 
     alt="Docker" 
     title="Docker"
     width="40px" 
@@ -517,15 +526,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     width="40px" 
     style="padding-right: 10px;" 
     src="https://e7.pngegg.com/pngimages/902/199/png-clipart-logo-phpmyadmin-mysql-font-mysql-logo-angle-text.png" 
-/>
-
-<img 
-    align="left" 
-    alt="MongoDB Compass" 
-    title="MongoDB Compass"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" 
 />
 
 <img 
