@@ -264,20 +264,20 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
-    alt="ASP" 
-    title="ASP Classic"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://aspclassic.com.br/wp-content/uploads/2024/05/Logo-AspClassic.png" 
-/>
-
-<img 
-    align="left" 
     alt="Visual Basic 6/.NET" 
     title="Visual Basic/.NET"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="ASP" 
+    title="ASP Classic"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://aspclassic.com.br/wp-content/uploads/2024/05/Logo-AspClassic.png" 
 />
 
 <img 
