@@ -514,7 +514,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     align="left" 
     alt="PHPMyAdmin" 
     title="PHPMyAdmin"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://e7.pngegg.com/pngimages/902/199/png-clipart-logo-phpmyadmin-mysql-font-mysql-logo-angle-text.png" 
 />
