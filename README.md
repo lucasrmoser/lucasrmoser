@@ -561,7 +561,3 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <br/>
 <br/>
-
-<br/>
-<br/>
-<br/>
