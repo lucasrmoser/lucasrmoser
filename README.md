@@ -215,7 +215,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <br/>
 
-### Principais e demais linguagens, IDEs, banco de dados, frameworks e tecnologias que já estudei, utilizei e fiz projetos
+### Demais linguagens, IDEs, banco de dados, frameworks e tecnologias que já estudei, utilizei e fiz projetos
 
 <img 
     align="left" 
@@ -314,6 +314,15 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 
 <img 
@@ -426,20 +435,20 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Express.js" 
     title="Express.js"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
 <img 
@@ -453,11 +462,11 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Ant" 
+    title="Ant"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://www.logo.wine/a/logo/Apache_Ant/Apache_Ant-Logo.wine.svg" 
 />
 
 <img 
@@ -476,15 +485,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Ant" 
-    title="Ant"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.logo.wine/a/logo/Apache_Ant/Apache_Ant-Logo.wine.svg" 
 />
 
 <img 
