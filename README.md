@@ -536,3 +536,12 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     style="padding-right: 10px;" 
     src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" 
 />
+
+<img 
+    align="left" 
+    alt="Github Copilot" 
+    title="GitHub Copilot"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.png" 
+/>
