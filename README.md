@@ -442,18 +442,9 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     align="left" 
     alt="Unify NXJ" 
     title="Unify NXJ"
-    width="45px" 
-    style="padding-right: 10px;" 
-    src="https://prtimes.jp/i/1467/21/resize/8493765bb14af1555ad1f95db5343ea1.jpg" 
-/>
-
-<img 
-    align="left" 
-    alt="Apex" 
-    title="Apex"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" 
+    src="https://prtimes.jp/i/1467/21/resize/8493765bb14af1555ad1f95db5343ea1.jpg" 
 />
 
 <img 
@@ -463,6 +454,15 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     width="40px" 
     style="padding-right: 10px;" 
     src="https://www.logo.wine/a/logo/Apache_Ant/Apache_Ant-Logo.wine.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Apex" 
+    title="Apex"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" 
 />
 
 <img 
