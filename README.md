@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+seja+bem+vindo+(a)!)](https://git.io/typing-svg) <p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+seja+bem-vindo+(a)!)](https://git.io/typing-svg) <p align="center">
 
 ### Sobre
 
