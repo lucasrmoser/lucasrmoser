@@ -440,6 +440,15 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
+    alt="Ant" 
+    title="Ant"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://www.logo.wine/a/logo/Apache_Ant/Apache_Ant-Logo.wine.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Unify NXJ" 
     title="Unify NXJ"
     width="50px" 
@@ -463,15 +472,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Ant" 
-    title="Ant"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://www.logo.wine/a/logo/Apache_Ant/Apache_Ant-Logo.wine.svg" 
 />
 
 <img 
