@@ -54,15 +54,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="VS Code" 
     title="VS Code"
     width="50px" 
@@ -90,15 +81,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="50px" 
@@ -113,33 +95,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Express.js" 
-    title="Express.js"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Mongoose" 
-    title="Moongose"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" 
 />
 
 <img 
@@ -256,15 +211,11 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 <br/>
 <br/>
 
-<br/>
-<br/>
-<br/>
-
 ---
 
 <br/>
 
-### Principais e demais linguagens, IDEs, banco de dados, frameworks e tecnologias em geral que já utilizei, estudei, programei e já fiz projetos
+### Principais e demais linguagens, IDEs, banco de dados, frameworks e tecnologias em geral que já estudei, utilizei e já fiz projetos
 
 <img 
     align="left" 
@@ -313,6 +264,15 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
+    alt="ASP" 
+    title="ASP Classic"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://aspclassic.com.br/wp-content/uploads/2024/05/Logo-AspClassic.png" 
+/>
+
+<img 
+    align="left" 
     alt="Visual Basic 6/.NET" 
     title="Visual Basic/.NET"
     width="50px" 
@@ -345,6 +305,15 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
 <img 
@@ -425,7 +394,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     title="Microsoft Acess"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Microsoft-Access-2010-icon.png" 
+    src="https://itonlineblog.wordpress.com/wp-content/uploads/2011/03/access-2010-icon.png" 
 />
 
 <img 
@@ -453,6 +422,42 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Express.js" 
+    title="Express.js"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Mongoose" 
+    title="Moongose"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
 <img 
@@ -538,6 +543,15 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
+    alt="MongoDB Compass" 
+    title="MongoDB Compass"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" 
+/>
+
+<img 
+    align="left" 
     alt="FlameRobin" 
     title="FlameRobin"
     width="50px" 
@@ -551,7 +565,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 <br/>
 <br/>
 
-<br/>
 <br/>
 <br/>
 
