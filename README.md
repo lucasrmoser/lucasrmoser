@@ -442,7 +442,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     align="left" 
     alt="Unify NXJ" 
     title="Unify NXJ"
-    width="80px" 
+    width="90px" 
     style="padding-right: 10px;" 
     src="https://prtimes.jp/i/1467/21/resize/8493765bb14af1555ad1f95db5343ea1.jpg" 
 />
