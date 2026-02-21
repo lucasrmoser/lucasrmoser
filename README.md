@@ -440,15 +440,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
-    alt="Mongoose" 
-    title="Moongose"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Ant" 
     title="Ant"
     width="40px" 
