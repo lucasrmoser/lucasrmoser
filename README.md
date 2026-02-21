@@ -558,6 +558,3 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     style="padding-right: 10px;" 
     src="https://www.everest.my/wp-content/uploads/2023/05/flamerobin-logo.png.webp"
 />
-
-<br/>
-<br/>
