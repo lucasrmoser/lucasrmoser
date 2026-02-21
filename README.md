@@ -460,7 +460,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     align="left" 
     alt="Unify NXJ" 
     title="Unify NXJ"
-    width="80px" 
+    width="70px" 
     style="padding-right: 10px;" 
     src="https://prtimes.jp/i/1467/21/resize/8493765bb14af1555ad1f95db5343ea1.jpg" 
 />
@@ -530,20 +530,20 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
-    alt="FlameRobin" 
-    title="FlameRobin"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.everest.my/wp-content/uploads/2023/05/flamerobin-logo.png.webp"
-/>
-
-<img 
-    align="left" 
     alt="MongoDB Compass" 
     title="MongoDB Compass"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" 
+/>
+
+<img 
+    align="left" 
+    alt="FlameRobin" 
+    title="FlameRobin"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.everest.my/wp-content/uploads/2023/05/flamerobin-logo.png.webp"
 />
 
 <img 
