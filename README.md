@@ -494,15 +494,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
-    alt="Blogger" 
-    title="Blogger"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1280px-Blogger.svg.png" 
-/>
-
-<img 
-    align="left" 
     alt="XAMPP" 
     title="XAMPP"
     width="40px" 
@@ -514,9 +505,18 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     align="left" 
     alt="PHPMyAdmin" 
     title="PHPMyAdmin"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://e7.pngegg.com/pngimages/902/199/png-clipart-logo-phpmyadmin-mysql-font-mysql-logo-angle-text.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Blogger" 
+    title="Blogger"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1280px-Blogger.svg.png" 
 />
 
 <img 
