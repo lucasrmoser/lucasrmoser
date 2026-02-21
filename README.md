@@ -494,6 +494,15 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
+    alt="Blogger" 
+    title="Blogger"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1280px-Blogger.svg.png" 
+/>
+
+<img 
+    align="left" 
     alt="XAMPP" 
     title="XAMPP"
     width="40px" 
@@ -512,15 +521,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
-    alt="Blogger" 
-    title="Blogger"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1280px-Blogger.svg.png" 
-/>
-
-<img 
-    align="left" 
     alt="FlameRobin" 
     title="FlameRobin"
     width="40px" 
@@ -535,13 +535,4 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     width="40px" 
     style="padding-right: 10px;" 
     src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" 
-/>
-
-<img 
-    align="left" 
-    alt="Github Copilot" 
-    title="GitHub Copilot"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.png" 
 />
