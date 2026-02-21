@@ -45,15 +45,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="SQL e PL/SQL" 
     title="SQL e PL/SQL"
     width="40px" 
@@ -318,6 +309,15 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Microsoft Visual Basic 6 IDE" 
     title="Microsoft Visual Basic 6 IDE"
     width="40px" 
@@ -562,7 +562,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 <br/>
 <br/>
 
-<br/>
 <br/>
 <br/>
 <br/>
