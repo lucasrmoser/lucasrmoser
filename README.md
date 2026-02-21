@@ -261,7 +261,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 <img 
     align="left" 
     alt="ASP" 
-    title="ASP Classic"
+    title="ASP Clássico"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://aspclassic.com.br/wp-content/uploads/2024/05/Logo-AspClassic.png" 
@@ -451,7 +451,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     align="left" 
     alt="Unify NXJ" 
     title="Unify NXJ"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://prtimes.jp/i/1467/21/resize/8493765bb14af1555ad1f95db5343ea1.jpg" 
 />
