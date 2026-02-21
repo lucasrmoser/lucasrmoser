@@ -442,7 +442,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     align="left" 
     alt="Ant" 
     title="Ant"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://www.logo.wine/a/logo/Apache_Ant/Apache_Ant-Logo.wine.svg" 
 />
