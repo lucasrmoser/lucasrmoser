@@ -196,15 +196,6 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" 
 />
 
-<img 
-    align="left" 
-    alt="Github Copilot" 
-    title="GitHub Copilot"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.png" 
-/>
-
 <br/>
 <br/>
 <br/>
@@ -553,4 +544,13 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     width="40px" 
     style="padding-right: 10px;" 
     src="https://www.everest.my/wp-content/uploads/2023/05/flamerobin-logo.png.webp"
+/>
+
+<img 
+    align="left" 
+    alt="Github Copilot" 
+    title="GitHub Copilot"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.png" 
 />
