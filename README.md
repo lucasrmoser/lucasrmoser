@@ -224,7 +224,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
 
 <br/>
 
-### Principais e demais linguagens, IDEs, banco de dados, frameworks e tecnologias em geral que já estudei, utilizei e já fiz projetos
+### Principais e demais linguagens, IDEs, banco de dados, frameworks e tecnologias que já estudei, utilizei e fiz projetos
 
 <img 
     align="left" 
