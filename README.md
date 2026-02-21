@@ -451,7 +451,7 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     align="left" 
     alt="Apex" 
     title="Apex"
-    width="43px" 
+    width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" 
 />
