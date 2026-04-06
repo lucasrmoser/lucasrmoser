@@ -8,7 +8,7 @@
 
 <b>Me chamo Lucas Ribeiro Moser, tenho 28 anos e sou natural de Jaraguá do Sul, Santa Catarina. Sou interessado por programação e ti em geral desde adolescente e por isso que ao longo dos anos eu já desenvolvi e trabalhei em diversos projetos pessoais, incluindo sites, blogs, fóruns e jogos online e offline, além de sistemas desktop e web. E isso muito anos antes de sequer pensar em cursar uma faculdade na área. E é exatamente por esse motivo que eu conheço um monte de tecnologias diferentes e até mesmo legadas, mas conhecer é completamente diferente de dominar, da mesma forma que desenvolver um projeto pessoal é completamente diferente de trabalhar em uma empresa. 
 
-Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera e possuo experiência de estágio como analista de desenvolvimento e suporte ERP em uma empresa voltada ao ramo têxtil.  Atualmente, estou cursando uma pós-graduação focada em Desenvolvimento Full Stack pela faculdade Wyden para aprimorar e atualizar meus conhecimentos e habilidades de desenvolvimento de software.</b> 
+Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera e possuo experiência de estágio como analista de desenvolvimento e suporte ERP em uma empresa voltada ao ramo têxtil.  Atualmente, estou cursando uma pós-graduação focada em Desenvolvimento Full Stack pela faculdade Wyden para ampliar, aprimorar e atualizar meus conhecimentos e habilidades de desenvolvimento de software.</b> 
 
 ---
 
