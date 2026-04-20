@@ -546,3 +546,23 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     style="padding-right: 10px;" 
     src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.png" 
 />
+
+### Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=lucasrmoser&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmoser&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=19" 
+  />
+
+</p>
