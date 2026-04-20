@@ -547,6 +547,11 @@ Além disso, sou formado em Análise e Desenvolvimento de Sistemas pela faculdad
     src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.png" 
 />
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 ### Estatísticas
 
 <p>
